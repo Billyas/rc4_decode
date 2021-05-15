@@ -1,0 +1,9 @@
+D:\-\Visual Studio 2019\rc4\rc4\bin\Debug\rc4.exe.config
+D:\-\Visual Studio 2019\rc4\rc4\bin\Debug\rc4.exe
+D:\-\Visual Studio 2019\rc4\rc4\bin\Debug\rc4.pdb
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.csprojAssemblyReference.cache
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.Form1.resources
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.Properties.Resources.resources
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.csproj.GenerateResource.cache
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.exe
+D:\-\Visual Studio 2019\rc4\rc4\obj\Debug\rc4.pdb
